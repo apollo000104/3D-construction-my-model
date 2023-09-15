@@ -1,0 +1,9 @@
+KITTI/images/
+KITTI/devkit/
+KITTI/pose_GT/
+*.png
+records/
+result/
+models/
+pretrained/
+*.ipynb
